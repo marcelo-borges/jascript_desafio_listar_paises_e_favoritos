@@ -1,6 +1,6 @@
 # desafio_listar_paises_e_favoritos
 
-Construir código JavaScript para listar países e marcá-los como favorito:
+Construir código JavaScript ES6 para listar países e marcá-los como favorito:
 
 Ao adicionar aos favoritos, o país deve ser movido da esquerda para a direita.
 
